@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE, warning=FALSE)
 ```
 ##Overview
 
-For this report, we will analyze the data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.
+For this report, we analyzed the data from a personal activity monitoring device. This device collects data at 5 minute intervals throughout the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.
 
 Dataset can be found in [here]("https://github.com/amielsy/RepData_PeerAssessment1"")
 
